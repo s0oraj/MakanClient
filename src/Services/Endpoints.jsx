@@ -1,4 +1,4 @@
-const BASE_URL = "https://makanserver.onrender.com";
+const BASE_URL = "https://makanapi.onrender.com";
 
 export const API_ENDPOINTS = {
   user: {
