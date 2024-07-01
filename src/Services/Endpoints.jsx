@@ -1,4 +1,4 @@
-const BASE_URL = "https://makanapi.onrender.com";
+const BASE_URL = "https://makanapi.onrender.com/Rentify";
 
 export const API_ENDPOINTS = {
   user: {
